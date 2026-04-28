@@ -1,7 +1,6 @@
 clear
-mkdir Tools
-clear 
-echo -e '\033[31;40;1m 
+
+echo -e "\033[31;1m
 ██╗  ██╗ █████╗  ██████╗██╗  ██╗ ██████╗ ███████╗███████╗
 ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔═══██╗██╔════╝██╔════╝
 ███████║███████║██║     █████╔╝ ██║   ██║█████╗  █████╗  
@@ -10,22 +9,22 @@ echo -e '\033[31;40;1m
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝  v0.1
 
   Coded by hackoff
-  github: https://github.com/hackoff-hacks
-\033[33;4mVersion:\033[0m 4            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m JB_editz
-'
-echo -e "\033[37m[1]\033[36m Requests & Update        \033[37m[2]\033[36m Phishing Tool
-\033[37m[3]\033[36m WebCam Hack              \033[37m[4]\033[36m Subscan
-\033[37m[5]\033[36m Gmail Bomber            \033[37m[6]\033[36m DDOS Attack
-\033[37m[7]\033[36m How to use ?            \033[37m[8]\033[36m Uninstall tools
-\033[37m[9]\033[36m Ip Info                 \033[37m[10]\033[36m dorks-eye
-\033[37m[11]\033[36m HackerPro              \033[37m[12]\033[36m RED_HAWK
-\033[37m[13]\033[36m VirusCrafter           \033[37m[14]\033[36m Info-Site
-\033[37m[15]\033[36m BadMod                \033[37m[16]\033[36m Facebash
-\033[37m[17]\033[36m DARKARMY              \033[37m[18]\033[36m AUTO-IP-CHANGER
-"
+  GitHub: https://github.com/hackoff-hacks
+\033[0m"
 
-'
+echo -e "\033[33mVersion: 4   CTRL+C: exit   Author: JB_editz\033[0m"
 
+echo -e "\033[36m
+[1] Requests & Update        [2] Phishing Tool
+[3] WebCam Hack              [4] Subscan
+[5] Gmail Bomber            [6] DDOS Attack
+[7] How to use ?            [8] Uninstall tools
+[9] Ip Info                 [10] dorks-eye
+[11] HackerPro              [12] RED_HAWK
+[13] VirusCrafter           [14] Info-Site
+[15] BadMod                 [16] Facebash
+[17] DARKARMY              [18] AUTO-IP-CHANGER
+\033[0m"
 
 #Choosing the Option
 
