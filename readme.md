@@ -12,9 +12,13 @@ Unix-like systems
 Open your terminal and run:
 
 pkg install git
+
 git clone https://github.com/hackoff-hacks/hackoff
+
 cd hackoff
+
 bash hackoff.sh
+
 ⚠️ Warning
 
 This project is intended for educational and personal use only.
